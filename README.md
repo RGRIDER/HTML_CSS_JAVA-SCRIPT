@@ -1,19 +1,18 @@
-# Web Applications: Calculator & To-Do List 🧮✅
-
+# Web Applications: Calculator & To-Do List 
 This repository features two beginner-friendly web projects built using **HTML**, **CSS**, and **JavaScript**. They demonstrate fundamental front-end skills with interactive UIs and local storage usage.
 
 ---
 
-## 🔢 Calculator
+##  Calculator
 
 A clean and responsive calculator capable of performing **basic arithmetic operations** including addition, subtraction, multiplication, and division. The logic is handled with JavaScript, and the UI is styled for an intuitive experience.
 
-### ✅ Features
+###  Features
 - User-friendly number pad  
 - Real-time calculation preview  
 - AC (All Clear) functionality
 
-### 📸 Screenshot
+### Screenshot
 
 <p align="center">
   <img src="./assets/calculator.png" alt="Calculator Screenshot" width="400"/>
@@ -30,13 +29,13 @@ A fully functional To-Do List web application that allows users to:
 - Remove individual or all tasks  
 - Persist tasks using **localStorage**
 
-### ✅ Features
+### Features
 - Task tracking with checkmarks  
 - Local storage for data persistence  
 - Total item count  
 - Color-coded task blocks
 
-### 📸 Screenshot
+###  Screenshot
 
 <p align="center">
   <img src="./assets/to-do.png" alt="To-Do List Screenshot" width="400"/>
@@ -44,14 +43,14 @@ A fully functional To-Do List web application that allows users to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla)  
 - LocalStorage (for the To-Do List)
 
 ---
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repo:
    ```bash
@@ -62,7 +61,7 @@ A fully functional To-Do List web application that allows users to:
 
 ---
 
-## 📂 Folder Structure (Example)
+##  Folder Structure (Example)
 ```
 web-calc-todo-apps/
 ├── calculator/
@@ -78,10 +77,8 @@ web-calc-todo-apps/
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and free to use for learning purposes.
 
----
 
-Happy coding! 🎉
